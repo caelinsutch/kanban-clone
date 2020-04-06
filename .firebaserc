@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-clone": {
+      "hosting": {
+        "kanban-clone": [
+          "kanban-clone"
+        ]
+      }
+    }
+  }
+}

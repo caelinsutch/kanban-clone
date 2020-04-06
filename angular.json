@@ -121,8 +121,16 @@
               "devServerTarget": "kanban-clone:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "kanban-clone"
+    }
+  },
+  "defaultProject": "kanban-clone",
+  "cli": {
+    "analytics": "b6faeddd-f0a3-4f40-906d-76471d501f29"
+  }
 }
